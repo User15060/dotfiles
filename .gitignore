@@ -2,4 +2,8 @@
 !*/
 !hypr/**/*
 !rofi/**/*
+!fish/**/*
+!kitty/**/*
+!fastfetch/**/*
 !.gitignore
+fish/fish_variables
